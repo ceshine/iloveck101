@@ -9,7 +9,8 @@ by tomin 2013.12.05
 如何安裝
 ==========
 
-1. 安裝瀏覽器外掛:油猴
+A. 安裝瀏覽器外掛:油猴
+
 Firefox: 
 https://addons.mozilla.org/zh-tw/firefox/addon/greasemonkey/
 
@@ -19,7 +20,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/
 Others:
 http://zh.wikipedia.org/wiki/Greasemonkey
 
-2. 安裝此script
+B. 安裝此script
 前往以下網址
 https://raw.github.com/tomin/iloveck101/master/iloveck101.user.js
 
@@ -29,8 +30,10 @@ https://raw.github.com/tomin/iloveck101/master/iloveck101.user.js
 如何使用
 ===========
 
-如同以往打開各篇文章, 例如思穎 `http://ck101.com/thread-2876990-1-1.html` 
+如同以往打開各篇文章, 例如思穎 `http://ck101.com/thread-2876990-1-1.html`
+ 
 應該就只會變成只有圖的版本 
+
 如果要disable此user script，只要在瀏覽器油猴設定內，取消打勾此script即可
 
 
@@ -38,6 +41,7 @@ https://raw.github.com/tomin/iloveck101/master/iloveck101.user.js
 ==========
 
 1.從瀏覽器油猴設定內，刪除iloveck101
+
 2.刪除瀏覽器油猴外掛
 
 
