@@ -2,37 +2,44 @@
 
 致敬，[https://github.com/tzangms/iloveck101](https://github.com/tzangms/iloveck101)，greasemonkey javascript version
 
-by tomin 2013.12.04
+用瀏覽器輕鬆賞圖
+
+by tomin 2013.12.05
 
 如何安裝
 ==========
 
-```bash
-$ git clone https://github.com/fukuball/iloveck101.git
-$ cd iloveck101
-$ sudo php ck101_install.php
-```
+1. 安裝瀏覽器外掛:油猴
+Firefox: 
+https://addons.mozilla.org/zh-tw/firefox/addon/greasemonkey/
 
+Chrome:
+https://chrome.google.com/webstore/detail/tampermonkey/
+
+Others:
+http://zh.wikipedia.org/wiki/Greasemonkey
+
+2. 安裝此script
+前往以下網址
+https://raw.github.com/tomin/iloveck101/master/iloveck101.user.js
+
+確認安裝即可
+ 
 
 如何使用
 ===========
 
-```bash
-$ iloveck101 [url]
-```
+如同以往打開各篇文章, 例如思穎 `http://ck101.com/thread-2876990-1-1.html` 
+應該就只會變成只有圖的版本 
+如果要disable此user script，只要在瀏覽器油猴設定內，取消打勾此script即可
 
-for example, 你可以試試看思穎
-
-```bash
-$ iloveck101 http://ck101.com/thread-2876990-1-1.html
-```
 
 解除安裝
 ==========
 
-```bash
-$ sudo php ck101_uninstall.php
-```
+1.從瀏覽器油猴設定內，刪除iloveck101
+2.刪除瀏覽器油猴外掛
+
 
 我愛卡提諾
 ==========
