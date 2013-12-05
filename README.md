@@ -1,3 +1,39 @@
+# iloveck101
+
+致敬，[https://github.com/tzangms/iloveck101](https://github.com/tzangms/iloveck101)，greasemonkey javascript version
+
+by tomin 2013.12.04
+
+如何安裝
+==========
+
+```bash
+$ git clone https://github.com/fukuball/iloveck101.git
+$ cd iloveck101
+$ sudo php ck101_install.php
+```
+
+
+如何使用
+===========
+
+```bash
+$ iloveck101 [url]
+```
+
+for example, 你可以試試看思穎
+
+```bash
+$ iloveck101 http://ck101.com/thread-2876990-1-1.html
+```
+
+解除安裝
+==========
+
+```bash
+$ sudo php ck101_uninstall.php
+```
+
 我愛卡提諾
 ==========
 
