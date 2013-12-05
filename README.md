@@ -6,6 +6,11 @@
 
 by tomin 2013.12.05
 
+安裝前後差異
+==========
+
+![截圖](https://raw.github.com/tomin/iloveck101/master/docs/diff.png) 
+
 如何安裝
 ==========
 
